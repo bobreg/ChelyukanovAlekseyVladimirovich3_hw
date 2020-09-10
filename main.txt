@@ -1,2 +1,6 @@
 Hello world
+<<<<<<< HEAD
 Comment was added
+=======
+My new rating
+>>>>>>> rating
